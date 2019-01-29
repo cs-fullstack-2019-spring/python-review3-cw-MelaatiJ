@@ -1,3 +1,6 @@
+### 1 POINT
+### KEY: You got the first one. Great job. 
+
 # Python Review Misc Topics
 
 ### Problem 1:
